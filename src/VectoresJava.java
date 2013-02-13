@@ -1,3 +1,10 @@
+/* Rodrigo Valladares Santana L1 
+ * Programación de Aplicaciones Interactivas Práctica 3
+ * 
+ * Clase que devuelve el rango (diferencia entre el valor máximo y el mínimo) de los elementos de un array de núumeros reales. 
+ * El array se lee de un fichero cuyo nombre se pasa por línea de comandos al ejecutar el programa.
+ * 
+ * */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
